@@ -1,0 +1,10 @@
+pytorch=1.0.0
+chumpy==0.67.6
+numpy==1.15.4
+opencv-python
+tensorflow==1.12
+opendr==0.77
+scipy==1.2.0
+tensorboardX==1.6
+torch==1.0.0
+tqdm==4.19.9
