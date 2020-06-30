@@ -12,7 +12,7 @@ Alternatively you can create a virtual environment and install all the relevant 
 
 ```
 virtualenv texturepose
-source texpose/bin/activate
+source texturepose/bin/activate
 pip install -U pip
 pip install -r requirements.txt
 ```
