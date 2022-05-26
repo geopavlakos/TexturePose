@@ -9,4 +9,4 @@ tensorboardX==1.6
 torch==1.0.0
 torchvision==0.2.1
 tqdm==4.19.9
-tensorflow==1.12
+tensorflow==2.7.2
